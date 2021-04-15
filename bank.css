@@ -1,0 +1,27 @@
+#trfirst{
+	border-bottom: 1px solid white;
+}
+select{
+	color:white;
+	background:black;
+	margin:20px;
+	height: 7vh;
+	font-size: 1rem;
+}
+.container-md{
+	color:black;
+}
+#idval,#idvalbal{
+	display:none;
+}
+button{
+	text-align: center;
+}
+.btn{
+	margin-left: 45%;
+	margin-top: 5%;
+}
+#h3{
+	letter-spacing: 5px;
+	color:red;
+}
